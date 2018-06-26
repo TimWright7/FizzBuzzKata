@@ -37,5 +37,6 @@ namespace FizzBuzzKata
         {
             return input % 5 == 0;
         }
+		//
     }
 }
