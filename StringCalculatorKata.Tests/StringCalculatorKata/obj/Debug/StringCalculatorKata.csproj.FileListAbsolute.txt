@@ -1,0 +1,6 @@
+C:\Systems\C#\Katas\StringCalculatorKata.Tests\StringCalculatorKata\bin\Debug\StringCalculatorKata.dll
+C:\Systems\C#\Katas\StringCalculatorKata.Tests\StringCalculatorKata\bin\Debug\StringCalculatorKata.pdb
+C:\Systems\C#\Katas\StringCalculatorKata.Tests\StringCalculatorKata\obj\Debug\StringCalculatorKata.csprojAssemblyReference.cache
+C:\Systems\C#\Katas\StringCalculatorKata.Tests\StringCalculatorKata\obj\Debug\StringCalculatorKata.csproj.CoreCompileInputs.cache
+C:\Systems\C#\Katas\StringCalculatorKata.Tests\StringCalculatorKata\obj\Debug\StringCalculatorKata.dll
+C:\Systems\C#\Katas\StringCalculatorKata.Tests\StringCalculatorKata\obj\Debug\StringCalculatorKata.pdb
